@@ -1,1 +1,0 @@
-<p>The notebook&nbsp;used during the session can be found here:&nbsp;<a href="https://github.com/dphi-official/Machine_Learning_Bootcamp/blob/master/Supervised_Learning_Walkthrough/Supervised_Machine_Learning_Walkthrough.ipynb">Supervised Machine Learning - Classification and Regression models</a></p>
